@@ -1,0 +1,76 @@
+Strawberry Leaf Scorch Diseases
+--------------------------
+1. Symptoms of Each Disease
+
+a. Leaf Spot (Mycosphaerella fragariae)
+
+Early Symptoms: Circular, deep purple spots typically appear on the upper surfaces of leaves. These spots are initially small and distinct.
+
+Progression: As the disease progresses, spots enlarge and the centers of older spots turn grayish to white, while young leaf spots turn light brown. A reddish purple to rusty brown border encircles these spots. On fruit, superficial black spots may develop, often forming around groups of seeds. These spots are about ¼ inch in diameter, with only one or two spots typically present per fruit. Severe infections may increase the number of spots.
+
+b. Leaf Scorch (Diplocarpon earliana)
+
+Early Symptoms: The disease first manifests as numerous small, irregular, purplish spots or blotches on the upper surface of strawberry leaves.
+
+Progression: The centers of these blotches become brownish, and blotches may merge, causing the leaf to turn purplish to reddish to brown. Infected petals may wither and fall from the plant. Lesions on peduncles (fruit stalks) may girdle them, leading to the death of the fruit.
+
+c. Leaf Blight (Phomopsis obscurans)
+
+Early Symptoms: The initial signs are one to several circular reddish-purple spots on the leaflets. These spots are typically located along the major veins.
+
+Progression: The lesions enlarge into V-shaped patterns with a light brown inner zone and a dark brown outer zone. The lesions can spread to cover the entire leaflet, causing it to turn brown. In severe cases, the disease can affect stolons (runners), fruit trusses, and petioles, potentially girdling and killing the stem.
+
+2. Disease Life Cycle
+
+Leaf Spot
+Overwintering: The fungus Mycosphaerella fragariae overwinters in dead leaves and infected plant debris. Spores remain viable in these residues.
+Development: During early summer, the fungus produces new spores in the lesions on leaves. These spores are spread by splashing rain, infecting healthy leaves. Middle-aged leaves are most susceptible to infection.
+
+Leaf Scorch
+Overwintering: Diplocarpon earliana survives on infected leaves and debris. The fungus remains active in decomposing foliage and overwintering strawberries.
+Development: In spring, the fungus forms spore-producing structures on both surfaces of old leaves. Spores are disseminated by splashing water and wind. The disease spreads rapidly in wet conditions and can infect plants within 24 hours. Older and middle-aged leaves are more susceptible than younger leaves.
+
+Leaf Blight
+Overwintering: The fungus Phomopsis obscurans survives as mycelium or fruiting bodies on old leaves attached to the plant.
+Development: In early spring, spores are released and spread by rain splash. The fungus is most destructive to older leaves during late summer. Spores can also infect petioles, calyxes (flower caps), and fruit.
+
+3. Preventive Measures
+Crop Rotation: Rotate strawberries with non-host crops (such as legumes or grains) to minimize pathogen buildup in the soil. Avoid planting strawberries in the same location year after year.
+
+Resistant Varieties: Plant resistant varieties to manage leaf spot and leaf scorch. Varieties such as Allstar, Canoga, Cardinal, Delite, Earliglow, Honeoye, Jewell, Lester, Midway, and Redchief are reported to be resistant. For everbearing varieties, Tribute and Tristar show tolerance.
+
+Hygiene:
+Remove older, infected leaves before planting new ones.
+Space plants adequately to ensure good air circulation.
+Control weeds to improve air movement and reduce moisture retention around plants.
+After harvest, remove infected leaves and plant debris to reduce inoculum levels.
+
+4. Treatment Options
+Chemical Treatments:
+
+Leaf Spot and Leaf Scorch: Apply fungicides such as thiophanate-methyl during periods of high humidity or when symptoms are first noticed. Follow the recommended application rates and 
+schedules for effective control.
+
+Leaf Blight: Use fungicides specifically labeled for Phomopsis obscurans. Application should begin early in the season before symptoms appear.
+Organic Treatments:
+
+Leaf Spot and Leaf Scorch: Use compost tea, neem oil, or other natural fungicides as preventive measures. These can help reduce the incidence of the disease.
+Leaf Blight: Organic treatment options are limited. Emphasize cultural practices and maintain plant health to reduce disease pressure.
+
+5. Impact on Yield
+Leaf Spot: This disease reduces the overall leaf area, impacting the plant’s ability to photosynthesize effectively. A significant reduction in leaf area can weaken the plant, making it more susceptible to root diseases and reducing overall fruit yield.
+
+Leaf Scorch: The disease results in a decrease in leaf vigor, leading to poor photosynthesis and a reduction in fruit yield and quality. Infected leaves may turn brown and fall off, impacting plant health and fruit production.
+
+Leaf Blight: Severe infections can cause extensive leaf drop and impact fruit production. The disease can also infect fruit trusses, reducing yield and causing potential economic losses.
+
+6. Disease-Resistant Crop Varieties
+Leaf Spot and Leaf Scorch:
+Resistant Varieties: Allstar, Canoga, Cardinal, Delite, Earliglow, Honeoye, Jewell, Lester, Midway, Redchief (June-bearing). Tribute and Tristar (everbearing).
+
+Leaf Blight: No specific resistant varieties are available. Focus on cultural practices and chemical treatments to manage the disease.
+
+7. Environmental Factors
+Weather Conditions: Leaf diseases are more likely to develop under conditions of prolonged wetness and high humidity. Warm temperatures and frequent rainfall can exacerbate disease spread.
+
+Soil Conditions: Well-drained soil with good air circulation reduces disease incidence. Avoid planting in poorly drained areas or using overhead irrigation, as these conditions increase humidity around the plants.

@@ -1,0 +1,39 @@
+Septoria Leaf Spot of Tomato-
+------------------------------
+1. Symptoms of Each Disease
+Early Diagnosis Symptoms:
+
+Initial Appearance: Small, water-soaked, circular spots on the undersides of older leaves, about 1/16 to 1/8 inch in diameter.
+Spot Characteristics: Centers turn gray to tan with dark brown margins. The spots are numerous and distinctively circular.
+Advanced Symptoms: As spots age, they may enlarge and coalesce. The leaves turn yellow, then brown, and eventually shrivel and drop off. A characteristic diagnostic feature is the presence of small, dark-brown, pimple-like structures called pycnidia in the center of the spots.
+Other Affected Parts: The disease can also appear on petioles, stems, and calyx but is less common.
+2. Disease Life Cycle
+Inoculum Source: The fungus Septoria lycopersici overwinters in infected tomato debris or on other Solanaceous weeds.
+Spore Production: Under wet conditions, the fungus produces spores (conidia) in fruiting bodies (pycnidia).
+Dispersal: Spores spread through windblown water, splashing rain, overhead irrigation, hands and clothing, and insects like Colorado potato beetles and aphids.
+Infection and Spread: Spores germinate when free moisture is present on leaves, leading to initial infection. New pycnidia form in new spots, initiating secondary cycles of infection. The disease spreads from older leaves to newer growth as conditions remain favorable.
+3. Preventive Measures
+Sanitation: Remove and destroy infected plant debris after harvest. In large fields, cover and bury debris by deep plowing.
+Crop Rotation: Avoid planting tomatoes or related crops (e.g., eggplant, potatoes) in the same location for 1–2 years to break the disease cycle.
+Healthy Transplants: Use disease-free transplants and rogue infected seedlings before planting.
+Watering Practices: Avoid overhead watering or water early in the day to ensure leaves dry quickly. Avoid working with wet plants.
+Weed Control: Eliminate weed hosts like nightshade and horsenettle.
+4. Treatment Options
+Chemical Treatments:
+
+Fungicides: Use protectant fungicides such as chlorothalonil and mancozeb. Apply as soon as symptoms are observed and repeat as necessary.
+Chlorothalonil: Effective for controlling Septoria leaf spot. Apply according to label instructions, usually starting by mid-July in Connecticut.
+Mancozeb: Similar application guidelines as chlorothalonil.
+Organic Treatments:
+
+Copper-Based Fungicides: Use copper hydroxide or copper sulfate for organic control.
+Organic Mulch: Apply a layer of organic mulch to reduce splashing of spores from the soil.
+5. Impact on Yield
+Defoliation: Significant leaf loss can reduce photosynthesis, leading to lower fruit yields.
+Sunscald: Premature leaf drop can expose fruit to sunscald, further affecting yield and quality.
+Complete Crop Loss: In severe cases, especially with heavy defoliation, crop losses can reach up to 100%.
+6. Disease-Resistant Crop Varieties
+Resistant Varieties: No commercial tomato cultivars with complete resistance to Septoria leaf spot are available. However, some tomato lines show partial resistance and are used in breeding programs. Consult local extension services for the latest resistant varieties.
+7. Environmental Factors
+Weather: Warm, wet, and humid conditions favor the development and spread of Septoria leaf spot. Extended periods of leaf wetness are particularly conducive to disease development.
+Soil Conditions: Well-drained soils can help reduce the disease risk by preventing prolonged periods of leaf wetness.

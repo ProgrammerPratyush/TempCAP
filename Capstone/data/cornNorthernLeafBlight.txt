@@ -1,0 +1,104 @@
+**Northern Corn Leaf Blight (NCLB)**
+
+**Description:**
+Northern Corn Leaf Blight (NCLB) is a common disease affecting corn, particularly in the Midwestern U.S. It is caused by the fungus *Exserohilum turcicum* (synonym *Helminthosporium turcicum*). This pathogen primarily affects corn plants, leading to significant yield losses when susceptible hybrids or inbreds are infected before silking. NCLB is more prevalent in humid climates and can be exacerbated by major weather events such as hurricanes that spread the pathogen.
+
+**Affected Crops:**
+- **Corn (Zea mays)**: The primary crop affected by NCLB.
+
+### Symptoms of Each Disease:
+
+**Early Symptoms:**
+- **Lesion Appearance:** Long, narrow, tan lesions that run parallel to the leaf margins. These lesions eventually expand to form oblong, cigar-shaped lesions.
+- **Color Changes:** Initial lesions have gray-green margins that turn tan and may contain dark areas of fungal sporulation.
+- **Leaf Location:** Symptoms typically begin on the lower leaves and progress upward. 
+
+**Advanced Symptoms:**
+- **Lesion Size:** Lesions can range from 1 to 7 inches in length, depending on the corn hybrid's resistance.
+- **Spore Formation:** Lesions may produce olive-green or black fungal spores, which give the lesions a dark, dirty appearance.
+- **Leaf Damage:** Severe cases result in large areas of dead tissue on leaves, potentially leading to blighted leaves.
+
+**Confusion with Other Diseases:**
+- **Goss's Leaf Blight:** May be confused with NCLB on some hybrids.
+- **Stewart’s Wilt:** Can also present with similar symptoms in certain conditions.
+
+### Disease Life Cycle:
+
+**Overwintering:**
+- The pathogen overwinters on corn leaf debris and other plant residues from the previous season.
+
+**Spore Production:**
+- In spring and early summer, favorable conditions lead to the production of spores from infected residue. 
+
+**Infection:**
+- Spores are spread by rain splash and air currents. Infection occurs when free water is present on the leaf surface for 6 to 18 hours and temperatures are between 65°F and 80°F.
+
+**Secondary Spread:**
+- Spores can travel long distances by wind, leading to secondary infections. In severe years, infections may begin in the upper plant canopy.
+
+**Disease Progression:**
+- Lesions initially appear on lower leaves and can spread rapidly to upper leaves, especially if weather conditions favor the disease (e.g., high humidity, moderate temperatures).
+
+### Preventive Measures:
+
+1. **Crop Rotation:**
+   - Rotate corn with non-host crops to reduce the amount of NCLB inoculum available for subsequent crops. A one-year rotation is typically recommended, but a two-year rotation may be necessary in fields with a history of NCLB.
+
+2. **Resistant Varieties:**
+   - Select corn hybrids with genetic resistance to NCLB. Pioneer and other seed companies offer hybrids with varying levels of resistance, including multigenic resistance to accommodate shifting pathogen races.
+
+3. **Field Hygiene:**
+   - Reduce corn residue through tillage or stover harvest to minimize the amount of pathogen present. Properly manage residues to promote decomposition.
+
+4. **Timely Planting:**
+   - Plant corn at optimal times to minimize the period of vulnerability to NCLB. Avoid late planting which may increase disease severity due to prolonged exposure.
+
+5. **Weather Monitoring:**
+   - Regularly monitor weather conditions that favor NCLB development, such as extended periods of humidity and moderate temperatures.
+
+### Treatment Options:
+
+**Chemical Treatments:**
+
+1. **Fungicides:**
+   - Use foliar fungicides to manage NCLB, especially in high-risk fields. Common fungicides include:
+     - **Strobilurins:** Azoxystrobin, Pyraclostrobin, Trifloxystrobin. These inhibit fungal respiration.
+     - **Triazoles:** Tebuconazole, Propiconazole, Epoxiconazole. These interfere with fungal cell growth.
+     - **SDHIs (Succinate Dehydrogenase Inhibitors):** Fluoxastrobin, Picoxystrobin, Boscalid. These inhibit a key enzyme in fungal respiration.
+   - Apply fungicides at key growth stages (tasseling to early silking) for maximum efficacy.
+
+**Organic Treatments:**
+
+1. **Biological Controls:**
+   - Explore biological control options that use natural predators or antagonistic organisms to suppress fungal growth. These are still being researched and may vary in availability and effectiveness.
+
+2. **Cultural Practices:**
+   - Implement cultural practices such as proper spacing and ventilation to reduce leaf wetness and improve air circulation around the plants.
+
+### Impact on Yield:
+
+- **Yield Reduction:** NCLB can lead to significant yield losses if it infects plants early and reaches the ear leaf or above during crucial stages like tasseling and silking. Yield reductions can be up to 30% in severely affected fields.
+- **Photosynthesis Loss:** Lesions reduce the photosynthetic area of the plant, leading to decreased grain fill and overall yield.
+- **Stalk Rot and Lodging:** NCLB lesions can contribute to stalk rot and lodging, further impacting yield.
+
+### Disease-Resistant Crop Varieties:
+
+1. **Pioneer Hybrids:**
+   - Pioneer evaluates and characterizes hybrids for NCLB resistance. Look for hybrids with Ht genes (e.g., Ht1, Ht2) that provide resistance to major NCLB races.
+   - Check ratings and select hybrids with high resistance scores based on the specific races prevalent in your area.
+
+2. **Other Brands:**
+   - Consult with other seed companies for their varieties with demonstrated resistance to NCLB. Varieties with multigenic resistance are preferable.
+
+### Environmental Factors:
+
+- **Weather Conditions:**
+  - High humidity, frequent rainfall, and moderate temperatures are conducive to NCLB development. Extended periods of moisture increase the likelihood of infection.
+
+- **Soil Conditions:**
+  - Fields with high moisture retention and poor drainage may be more prone to NCLB due to prolonged leaf wetness.
+
+- **Field Location:**
+  - Fields in low-lying areas or those adjacent to wooded areas may experience higher humidity and dew, which favor disease development.
+
+By adhering to these guidelines, you can manage and mitigate the impact of Northern Corn Leaf Blight on your corn crops, improving overall yield and crop health.

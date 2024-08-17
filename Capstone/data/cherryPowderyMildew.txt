@@ -1,0 +1,49 @@
+**Cherry Powdery Mildew**
+
+**1. Disease Text File:**
+   - **Description:** Cherry Powdery Mildew is caused by the fungus *Podosphaera clandestina*. This obligate biotrophic pathogen primarily affects sweet and sour cherry trees (*Prunus avium* and *Prunus cerasus*). The disease is characterized by white, powdery fungal growth on cherry surfaces, which makes the fruit unmarketable and reduces overall orchard health.
+   - **Affected Crops:** The disease impacts both sweet and sour cherries, and can also affect other Prunus species, although sweet cherries are commonly more affected.
+
+**2. Symptoms of Each Disease:**
+   - **Leaf Symptoms:**
+     - **Early Stage:** Light, roughly-circular, powdery patches appear on young, susceptible leaves shortly after the onset of irrigation. These patches are most visible on newly unfolded and light green expanding leaves.
+     - **Progression:** As the disease progresses, leaves may become distorted, curling upward, and severe infections can cause leaves to pucker and twist. Infected leaves often become smaller and paler.
+   - **Fruit Symptoms:**
+     - **Early Infection:** Initial infections on fruit are difficult to identify. The disease typically starts at the stem's connection to the fruit, known as the 'cherry bowl.' Early fungal growth may require a hand lens to detect.
+     - **Appearance:** As the infection advances, the fruit develops white, powdery fungal growth, impacting its appearance and marketability.
+   - **Branch Symptoms:** The disease primarily affects leaves and fruit; however, high humidity levels and poor air circulation can exacerbate fungal spread throughout the canopy.
+
+**3. Disease Life Cycle:**
+   - **Overwintering:** In the fall, *P. clandestina* produces chasmothecia (formerly cleistothecia), which are small, hardened overwintering structures on senescent leaves or in tree crotches.
+   - **Spore Release:** In spring, these chasmothecia break open during wet conditions, releasing ascospores. These sexual spores initiate the primary infections.
+   - **Primary and Secondary Infections:** Ascospores are spread by the wind, leading to primary infections on young leaves. Secondary infections, caused by asexual spores produced during the primary infections, result in widespread disease.
+   - **Seasonal Cycle:** By early fall, the fungus prepares for overwintering by producing new chasmothecia. The full life cycle can be referenced in a detailed review article by Glawe (2008).
+
+**4. Preventive Measures:**
+   - **Irrigation Management:** Avoid early irrigation in dry conditions to prevent early disease initiation. Research indicates that a two-week delay in irrigation can effectively delay the onset of the disease with no negative impact on fruit quality.
+   - **Pruning:** Pruning helps reduce humidity within the canopy by improving air flow and leaf drying, which can lower disease incidence.
+   - **Root Sucker Management:** Remove root suckers, as they are highly susceptible to infection and can act as reservoirs for the disease. This helps reduce fungal inoculum and limits the spread to the canopy and fruit.
+
+**5. Treatment Options:**
+   - **Chemical Controls:**
+     - **Preventive Measures:** Fungicides are generally preventive, so a consistent application program from shuck fall through harvest is crucial. Consider post-harvest applications to prevent the fungus from overwintering.
+     - **Products:** Fungicides with different modes of action should be rotated to prevent resistance. Effective products include azoxystrobin, pyraclostrobin, and sulfur. See Table 1 for specific chemical options, rates, and timings.
+   - **Organic Treatments:**
+     - **Sulfur:** An effective and low-risk option for powdery mildew management, although it may cause fruit and leaf injury if not applied correctly.
+     - **Potassium Bicarbonate:** Effective for mildew control, particularly when used as part of an integrated management strategy.
+
+**6. Impact on Yield:**
+   - **Fruit Quality:** Powdery mildew can significantly impact the appearance of cherries, making them unmarketable and reducing their value.
+   - **Yield Reduction:** Severe infections lead to reduced photosynthetic activity due to affected leaves, which can lower overall fruit yield. This impact is particularly evident in commercial orchards where disease pressure can be high.
+
+
+**8. Environmental Factors:**
+   - **Weather Conditions:** Powdery mildew thrives in warm temperatures (70°F to 80°F) and high humidity. The disease does not require free water but favors high humidity for spore germination and fungal growth.
+   - **Humidity:** Warm, dry temperatures with high humidity (such as morning fog or dew) create optimal conditions for the rapid increase of the disease.
+
+**9. Cherry Powdery Mildew and Related Fungi Survival and Spread:**
+   - The fungus survives in overwintering structures on senescent leaves and tree crotches. During spring, spores are released and spread by wind, leading to both primary and secondary infections. Effective management involves monitoring environmental conditions and applying preventive measures throughout the growing season.
+
+
+**11. Powdery Mildew on Cherry Overview:**
+   - Cherry Powdery Mildew is a prevalent and significant disease in cherries, especially in regions with favorable conditions for the fungus. Effective management involves understanding the disease lifecycle, environmental conditions, and applying appropriate preventive and treatment measures. The Gubler-Thomas Powdery Mildew Risk Index Model can be adapted for cherries to optimize spray timings and improve disease management.

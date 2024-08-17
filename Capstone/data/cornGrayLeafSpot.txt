@@ -1,0 +1,41 @@
+Gray Leaf Spot on Corn
+
+### 1. Description and Affected Crops
+- **Description**: Gray leaf spot (GLS) is a highly impactful foliar disease affecting corn, particularly prevalent in the U.S. corn belt. It is caused by the fungus *Cercospora zeae-maydis*. This disease is characterized by the appearance of necrotic lesions on the leaves, which can lead to severe yield loss if not managed properly. Gray leaf spot requires extended periods of high humidity and warm temperatures to develop and is more problematic in fields with high corn residue and continuous corn rotations.
+- **Affected Crops**: Corn is the sole host of the pathogen *Cercospora zeae-maydis*. The disease does not affect other crops, but corn is highly susceptible, especially under conducive environmental conditions.
+
+### 2. Symptoms of Each Disease
+- **Early Symptoms**: The initial signs of gray leaf spot are small, dark necrotic spots surrounded by chlorotic halos. These spots are initially inconspicuous but can be observed more clearly when leaves are backlit. The lesions gradually expand and coalesce, forming rectangular patches about 1/8 inch wide and 2 to 3 inches long. The coloration ranges from gray to brown, and mature lesions have distinct parallel edges.
+- **Later Symptoms**: As the disease progresses, the lesions become more defined and take on a blocky appearance limited by leaf veins. The lesions turn gray and may merge, leading to larger areas of necrotic tissue. In severe cases, entire leaves can die off, severely impacting the plant's ability to photosynthesize.
+
+### 3. Disease Life Cycle
+- **Development and Spread**: The pathogen *Cercospora zeae-maydis* overwinters in corn debris left on the soil surface. Infection typically begins when conditions are favorable, with high humidity (greater than 95%) and warm temperatures (70-90°F or 25-32°C). The fungus produces spores that are spread by wind and rain. The disease develops from the silking stage of corn until maturity, and its progression is rapid in warm, humid weather. Infection can occur throughout the growing season, but the most significant damage often occurs late in the season when the plant is allocating resources to grain fill.
+
+### 4. Preventive Measures
+- **Crop Rotation**: Rotating corn with other crops can help reduce the amount of corn residue left on the field, thereby lowering the risk of gray leaf spot. A rotation period of at least one year away from corn is recommended, although longer periods may be necessary in continuous corn systems or minimum tillage practices.
+- **Resistant Varieties**: Planting corn hybrids that have been bred for resistance to gray leaf spot can significantly mitigate disease risk. Hybrid resistance varies, so selecting varieties with high resistance ratings based on regional disease pressure can be beneficial.
+- **Hygiene**: Practices such as conventional tillage help reduce the amount of corn residue on the soil surface, which can decrease the primary inoculum source for the pathogen. Proper field sanitation and management of debris are crucial in minimizing disease spread.
+
+### 5. Treatment Options
+- **Chemical Treatments**: Foliar fungicides can be effective in managing gray leaf spot if the conditions justify their use. Fungicides such as Headline® (pyraclostrobin), Quadris® Flowable (azoxystrobin), and Tilt® (propiconazole) are commonly used. The choice of fungicide should be based on its efficacy, cost, and the stage of disease development. Timing of application is crucial, with treatments typically applied at the beginning of disease symptoms or when disease pressure is high.
+- **Organic Treatments**: While less common, some organic treatments and biopesticides may provide limited control. These can be considered as part of an integrated pest management strategy but should be evaluated based on their effectiveness and economic feasibility.
+
+### 6. Impact on Yield
+- **Yield Impact**: Gray leaf spot can cause significant yield reductions by diminishing the photosynthetic capacity of the plant. Infected leaves contribute less to carbohydrate production, which is critical for grain fill. The severity of yield loss is related to the proportion of leaves infected and the timing of infection relative to grain fill. When infection occurs near pollination, it can lead to substantial reductions in kernel number and weight. Additionally, reduced photosynthetic area can result in the plant drawing carbohydrates from the stalk, increasing the risk of stalk rot and lodging.
+
+### 7. Disease-Resistant Crop Varieties
+- **Resistant Varieties**: Several corn hybrids have been developed with varying levels of resistance to gray leaf spot. For example, Pioneer® brand hybrids undergo screening in high disease pressure areas to evaluate their resistance. These hybrids are rated on a scale (1 to 9), with lower numbers indicating higher resistance. Choosing hybrids with high resistance ratings can reduce the risk of yield loss and the need for chemical treatments.
+
+### 8. Environmental Factors
+- **Weather**: Gray leaf spot development is heavily influenced by weather conditions. The disease thrives under conditions of high humidity (above 90%) and warm temperatures (70-90°F or 25-32°C). Extended periods of leaf wetness due to dew, rain, or irrigation can facilitate infection. In Nebraska, where gray leaf spot is endemic, infection cycles are closely tied to prevailing weather conditions, with varying timing based on annual weather patterns.
+- **Soil Conditions**: Fields with high levels of corn residue or those in minimum tillage systems are at greater risk for gray leaf spot outbreaks. Reduced or no-till systems can exacerbate disease pressure by increasing the amount of residue that serves as a reservoir for the pathogen.
+
+### 9. Farming Considerations
+- **Cultural Practices**: Implementing cultural practices such as reducing corn residue through tillage, rotating crops, and selecting disease-resistant hybrids can significantly reduce gray leaf spot pressure. These practices help manage the primary inoculum and reduce disease incidence.
+- **Hybrid Resistance**: Utilizing hybrids with higher levels of resistance to gray leaf spot is an effective management strategy. Hybrid resistance varies widely, so selecting hybrids based on regional disease ratings and historical performance is recommended.
+- **Fungicides**: The use of fungicides should be based on economic thresholds and disease pressure. Applying fungicides at the correct timing and choosing effective products can help control gray leaf spot. However, the cost-effectiveness of fungicide applications depends on factors such as the potential yield increase and the market value of the corn.
+
+### 10. Residue Management
+- **Residue Management**: Effective residue management involves practices that reduce the amount of corn debris on the field. This includes implementing crop rotation, conventional tillage, and ensuring that residue is managed properly to minimize the risk of gray leaf spot. Fields with high residue levels (greater than 30%) are more likely to experience severe disease pressure, while fields with lower residue levels (as little as 10%) can still be at risk depending on the hybrid’s tolerance and disease pressure.
+
+---

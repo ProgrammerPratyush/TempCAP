@@ -1,0 +1,59 @@
+Huanglongbing (HLB)
+
+**Description and Affected Crops:**
+Huanglongbing (HLB) is a major disease of citrus that has caused catastrophic damage to citrus trees worldwide. The disease results in reduced fruit quality and yield, tree decline, and eventual tree death.
+
+**Symptoms of Each Disease:**
+
+- **General Symptoms:**
+  - Yellow shoots with pale green and yellow flushes.
+  - Non-symmetrical mottled leaves with shades of yellow and green on either side of the mid-rib.
+  - Thickened, leathery leaves.
+  - Enlarged, corky mid-ribs of leaves.
+  - Leaves with zinc deficiency symptoms, including upright leaves in relation to the shoot (acute shoot-leaf angles).
+
+- **Advanced Symptoms:**
+  - Defoliation, fruit drop, and shoot dieback in advanced stages.
+  - Young trees may die soon after infection; older trees may die in seven to nine years after infection.
+
+- **Fruit Symptoms:**
+  - Small, misshaped fruit that are lopsided or asymmetrical.
+  - Color inversion from yellow to orange to green on the peduncle side, while remaining green on the stylar end.
+  - Brownish vascular tissue on the peduncle side of fruit.
+  - Seeds of affected fruit are small, brown, and aborted.
+
+**Disease Life Cycle:**
+HLB has a complex pathosystem involving multiple strains, diverse hosts, and several insect vectors. The disease is associated with different species and strains of Liberibacters, which are spread by various citrus psyllid vectors. The pathogen currently found in the US is Candidatus Liberibacter asiaticus. 
+
+**Preventive Measures:**
+- Maintain tree health, especially root health.
+- There is no cure for the disease.
+- Regular monitoring and control of psyllid vectors.
+- Removal of infected trees and treatment of infestations with conventional insecticides when necessary.
+
+**Treatment Options:**
+- Conventional insecticides are mandatory if ACP nymphs or infected trees are detected.
+- Removal of infected trees is required if a tree tests positive for HLB via PCR test.
+
+**Impact on Yield:**
+HLB causes a significant reduction in fruit quality and yield. Trees affected by HLB eventually die, leading to a severe loss of production and economic impact.
+
+**Disease-Resistant Crop Varieties:**
+Currently, there are no resistant varieties of citrus that have edible fruit.
+
+**Environmental Factors:**
+- **Vectors:** Citrus psyllids Diaphorina citri (Asian citrus psyllid) and Trioza erytreae (African citrus psyllid, not found in the US) are the main vectors.
+- **Transmission:** The disease can also be spread by grafting and is affected by environmental conditions that influence vector populations.
+
+**Comments on the Disease:**
+HLB involves a complex pathosystem with various strains and hosts. Non-citrus hosts have been identified but their role in disease epidemiology is unclear. Huanglongbing has no effective cure and managing it requires a comprehensive approach including monitoring, vector control, and removal of infected trees.
+
+**Management:**
+- California is under an HLB eradication program.
+- Testing of psyllids and leaf tissue is carried out by CDFA survey crews.
+- In regions with established or occasionally reported ACP, growers can submit samples to the Citrus Pest Detection Program (formerly the CCTEA) for testing.
+- In quarantine zones, sample collection must be performed by regulatory authorities.
+
+---
+
+This structure adheres strictly to the data provided. Let me know if you need any additional information or modifications!
